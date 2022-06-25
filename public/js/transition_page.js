@@ -83,7 +83,7 @@ content_page2 = [
     `,
     `
     <p>
-    Nous nous sommes donc tous réunis dans mon nouveau bureau, et je me suis donc présenter à eux en leur expliquant tout le projet certains étaient choqué de voir que le Thomas qu'ils connaissaient n'était qu'un personnage que je me forçait à jouer en leur présence. Enfin bon, Je suis le numéro 0 dit le grand chef. Juan Corona sera le numéro 1, le bras droit. Tyler Jensen numéro 2, bras gauche par la suite. Numéro 3 alias Jada Benriltom, Numéro 4 - Aaron Benriltom, Numéro 5 - Zujoo Guesta, Numéro 6 - Juan Perez, Numéro 7 - Juanito Perez, Numéro 8 - Tony Lewhan, Numéro 9 - Kush Puppy, Numéro 10 - Trinity Red, Numéro 11 - Broony Pistache, Numéro 12 - Tom Brown, Numéro 13 - Layan Curt, Numéro 14 - Thiago Esperanza, Numéro 15 - Javier Fernandez, Numéro 16 - Cane Tejada. Voici donc le classement de notre organisation.
+    Nous nous sommes donc tous réunis dans mon nouveau bureau, et je me suis donc présenter à eux en leur expliquant tout le projet certains étaient choqué de voir que le Thomas qu'ils connaissaient n'était qu'un personnage que je me forçait à jouer en leur présence. Enfin bon, Je suis le numéro 0 dit le grand chef. Juan Corona sera le numéro 1, le bras droit. Tyler Jensen numéro 2, bras gauche par la suite. Numéro 3 alias Jada Benriltom, Numéro 4 - Aaron Benriltom, Numéro 5 - Zujoo Guesta, Numéro 6 - Juan Perez, Numéro 7 - Juanito Perez, Numéro 8 - Tony Lewhan, Numéro 9 - Kush Puppy, Numéro 10 - ZvetLana Mariakovitski, Numéro 11 - Broony Pistache, Numéro 12 - Tom Brown, Numéro 13 - Layan Curt, Numéro 14 - Thiago Esperanza, Numéro 15 - Javier Fernandez, Numéro 16 - Cane Tejada. Voici donc le classement de notre organisation.
     </p>
     <br>
     <p>

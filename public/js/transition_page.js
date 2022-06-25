@@ -18,7 +18,7 @@ content_page1 = [
     </p>
     <h3><strong>10 Avril 20XX</strong></h3>
     <p>
-    En me renseignant un petit peu plus, j'ai pu constater que Juan, mon collègue fréquentait avec un certain gang je ne connais pas encore leurs noms mais ils ont pas l'air d'être à la ramasse comme j'ai pu le voir, il faudrait s'en méfier et ne pas éveiller les soupçons auprès d'eux ça pourrait me coûter beaucoup. Enfin bon encore un petit peu et je pourrai finalement proposé à Juan de lancer ce fameux projets. Numéro 3 et Numéro 4 sont déjà la il ne manque plus que Numéro 8.
+    En me renseignant un petit peu plus, j'ai pu constater que Juan, mon collègue fréquentait avec un certain gang je ne connais pas encore leurs noms mais ils ont pas l'air d'être à la ramasse comme j'ai pu le voir, il faudrait s'en méfier et ne pas éveiller les soupçons auprès d'eux ça pourrait me coûter beaucoup. Enfin bon encore un petit peu et je pourrai finalement proposé à Juan de lancer ce fameux projets. Numéro 3, Numéro 4 ainsi que Numéro 14 sont déjà la il ne manque plus que Numéro 8.
     </p>
     <button onclick="PageSuivante(3)">Page Précedente</button></div>
     `,
